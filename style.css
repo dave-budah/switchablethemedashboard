@@ -67,6 +67,7 @@ nav .logo {
     border-radius: 50%;
     border: var(--border-color);
     transition: var(--tran-05);
+    padding: .3rem;
 }
 #dashboard-nav.close .logo {
     width: 40px;
